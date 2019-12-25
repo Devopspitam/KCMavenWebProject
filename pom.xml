@@ -173,8 +173,7 @@
       </build>
     </profile>
   </profiles>
-</project>
-
+	
 <distributionManagement>
         <repository>
           <id>nexus</id>
@@ -187,3 +186,5 @@
           <url>http://35.154.201.244:8081/repository/snap/</url>
         </snapshotRepository>
     </distributionManagement>
+</project>
+
