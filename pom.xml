@@ -128,10 +128,9 @@
           <name>snapshot</name>
           <url>http://35.154.201.244:8081/repository/snap/</url>
         </snapshotRepository>
--->
-
     </distributionManagement>
-      <build>
+   --> 
+	    <build>
         <pluginManagement>
           <plugins>
             <plugin>
