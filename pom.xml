@@ -116,7 +116,7 @@
                 <sonar.host.url>http://35.154.201.244:9000/</sonar.host.url>
 				<sonar-maven-plugin.version>3.3.0.603</sonar-maven-plugin.version>
             </properties>
-    
+    <!--
     <distributionManagement>
         <repository>
           <id>nexus</id>
@@ -128,6 +128,7 @@
           <name>snapshot</name>
           <url>http://35.154.201.244:8081/repository/snap/</url>
         </snapshotRepository>
+-->
 
     </distributionManagement>
       <build>
